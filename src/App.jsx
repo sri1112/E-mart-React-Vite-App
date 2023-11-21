@@ -42,7 +42,6 @@ const App = () => {
         <Route path="/furniture" element={<FurniturePage />} />
         <Route path="/ac" element={<AcPage />} />
         <Route path="/book" element={<BookPage/>} />
-        
         <Route path="/mobiles/:id" element={<MobileSingle />} />
         <Route path="/cart" element={<UserCart />} />
         <Route path="/ac/:id" element={<AcSingle />} />
