@@ -7,7 +7,7 @@ const Kitchen = () => {
   return (
     <>
    <div className="proTitle">
-        <h2>Furniture</h2>
+        <h2>Kitchen</h2>
       </div>
    <div className='proSection'>
         {
