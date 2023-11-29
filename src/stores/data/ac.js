@@ -1,5 +1,5 @@
 export const acData = [{
-        "id": "11",
+        "id": "1",
         "product": "Air Conditioner",
         "image": "/assets/Ac/1.jpg",
         "company": "LG",
@@ -9,7 +9,7 @@ export const acData = [{
         "description": "Powerful 15000 BTU window air conditioner with energy-saving features."
     },
     {
-        "id": "22",
+        "id": "2",
         "product": "AC Unit",
         "image": "/assets/Ac/2.jpg",
         "company": "Daikin",
@@ -19,7 +19,7 @@ export const acData = [{
         "description": "Advanced split-system AC with smart temperature control and quiet operation."
     },
     {
-        "id": "33",
+        "id": "3",
         "product": "Cooling System",
         "image": "/assets/Ac/3.jpg",
         "company": "Carrier",
@@ -29,7 +29,7 @@ export const acData = [{
         "description": "Ductless mini-split AC with adjustable airflow and dehumidification."
     },
     {
-        "id": "44",
+        "id": "4",
         "product": "Air Cooler",
         "image": "/assets/Ac/4.jpg",
         "company": "Honeywell",
